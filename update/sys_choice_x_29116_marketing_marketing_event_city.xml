@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="city" table="x_29116_marketing_marketing_event" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dallas</label>
+            <language>en</language>
+            <name>x_29116_marketing_marketing_event</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-14 08:49:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6dc9874e0f4b2200b79487ece1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-14 08:49:19</sys_updated_on>
+            <value>Dallas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kansas City</label>
+            <language>en</language>
+            <name>x_29116_marketing_marketing_event</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-14 08:49:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1c9874e0f4b2200b79487ece1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-14 08:49:19</sys_updated_on>
+            <value>Kansas City</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_29116_marketing_marketing_event</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-14 08:49:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5c9874e0f4b2200b79487ece1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-14 08:49:19</sys_updated_on>
+            <value>London</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>San Jose</label>
+            <language>en</language>
+            <name>x_29116_marketing_marketing_event</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-14 08:51:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d33a4b4e0f4b2200b79487ece1050e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-14 08:51:20</sys_updated_on>
+            <value>San Jose</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portland</label>
+            <language>en</language>
+            <name>x_29116_marketing_marketing_event</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-14 08:51:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d73a4b4e0f4b2200b79487ece1050e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-14 08:51:20</sys_updated_on>
+            <value>Portland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sydney</label>
+            <language>en</language>
+            <name>x_29116_marketing_marketing_event</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-14 08:51:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db3a4b4e0f4b2200b79487ece1050e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-14 08:51:20</sys_updated_on>
+            <value>Sydney</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <name>x_29116_marketing_marketing_event</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-14 08:49:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>21c9874e0f4b2200b79487ece1050e44</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>city</sys_name>
+            <sys_package display_value="Marketing Events Application" source="x_29116_marketing">a420c7860f4b2200b79487ece1050e58</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">a420c7860f4b2200b79487ece1050e58</sys_scope>
+            <sys_update_name>sys_choice_x_29116_marketing_marketing_event_city</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-14 08:51:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
